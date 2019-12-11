@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aska/Projects/LSQR-cpp/Source/TestLSQRSparse.cpp
+lsqrSparse.h
+/home/aska/Projects/LSQR-cpp/Source/lsqrSparse.h
+iostream
+-
+limits
+-
+
+/home/aska/Projects/LSQR-cpp/Source/lsqrBase.cxx
+lsqrBase.h
+/home/aska/Projects/LSQR-cpp/Source/lsqrBase.h
+cmath
+-
+iostream
+-
+
+/home/aska/Projects/LSQR-cpp/Source/lsqrBase.h
+iosfwd
+-
+
+/home/aska/Projects/LSQR-cpp/Source/lsqrSparse.cpp
+lsqrSparse.h
+/home/aska/Projects/LSQR-cpp/Source/lsqrSparse.h
+
+/home/aska/Projects/LSQR-cpp/Source/lsqrSparse.h
+lsqrBase.h
+/home/aska/Projects/LSQR-cpp/Source/lsqrBase.h
+vector
+-
+

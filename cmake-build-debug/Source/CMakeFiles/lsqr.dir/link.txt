@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblsqr.a  CMakeFiles/lsqr.dir/lsqrBase.cxx.o CMakeFiles/lsqr.dir/lsqrDense.cxx.o CMakeFiles/lsqr.dir/lsmrBase.cxx.o CMakeFiles/lsqr.dir/lsmrDense.cxx.o CMakeFiles/lsqr.dir/lsqrSparse.cpp.o
+/usr/bin/ranlib liblsqr.a
